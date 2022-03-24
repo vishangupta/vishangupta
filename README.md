@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishangupta
 - 👀 I’m interested in Machine Learning based projects
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on machine learning based industries
 - 📫 How to reach me ...vishangupta@gmail.com
 
 <!---
